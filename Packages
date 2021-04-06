@@ -13,17 +13,17 @@ Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name: appstore++
 
-Package: 
-Version: 
-Architecture: 
+Package: com.tigisoftware.filza64bit
+Version: 3.8.2-4
+Architecture: iphoneos-arm
 Maintainer: abuanas
-Depends:  	
-Conflicts:	
-Filename: deb/
-Size: 	
-MD5sum: 	
-SHA1: 	
-SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298	
+Depends:  zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza	
+Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
+Size: 8387434	
+MD5sum: 	eb947177c58647ec420a31af4610a64c
+SHA1: 05dd43c936b8f4994f051ec6c16452ac175b09db	
+SHA256: af35a2784770b72c8b85734254ab050ba866ebbabe17b0c5ae31082739104d43
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
-Name: appstore++
+Name: Filza File Manager
