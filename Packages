@@ -28,18 +28,18 @@ Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name: Filza File Manager
 
-Package: net.limneos.bioprotectxs
-Version: 4.5-14
+Package: com.rpgfarm.a-bypass
+Version:  1.5.3
 Architecture: iphoneos-arm
 Maintainer: abuanas
-Depends:  mobilesubstrate, preferenceloader, firmware (>= 12) 
-Conflicts: 	net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: deb/bioprotectxs_4.5-14.deb
-Size: 578710
-MD5sum: e03e1ac9a8bc44f5766227db399312ed	
-SHA1: 24e7bac6066e3341fb65667e48eb9a687f51411c	
-SHA256: 25ec755cca7cc23b033b125cba916eb5162496026b969cf3142e16363764d776
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Conflicts:
+Filename: deb/com.rpgfarm.a-bypass.deb
+Size: 98952
+MD5sum:	5ba4349df8cdc749b4684c603479b5c1
+SHA1:	ef83d980f978e7b3e3ae65e84f1fa5a6168c1dc4
+SHA256: 99ac1d1df7ac2bc78dfaf934c759ea879b1187e4e5d839a02fded8c007ebe397
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
-Name: BioProtect XS (iOS 12/13/14)
+Name: A-Bypass
 
