@@ -12,3 +12,18 @@ SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name: appstore++
+
+Package: 
+Version: 
+Architecture: 
+Maintainer: abuanas
+Depends:  	
+Conflicts:	
+Filename: deb/
+Size: 	
+MD5sum: 	
+SHA1: 	
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298	
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name: appstore++
