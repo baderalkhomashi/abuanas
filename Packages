@@ -35,7 +35,7 @@ Maintainer: abuanas
 Depends:  mobilesubstrate, preferenceloader, firmware (>= 12) 
 Conflicts: 	net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: deb/bioprotectxs_4.5-14.deb
-Size: 	578710
+Size: 578710
 MD5sum: e03e1ac9a8bc44f5766227db399312ed	
 SHA1: 24e7bac6066e3341fb65667e48eb9a687f51411c	
 SHA256: 25ec755cca7cc23b033b125cba916eb5162496026b969cf3142e16363764d776
