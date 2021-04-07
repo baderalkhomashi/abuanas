@@ -82,11 +82,11 @@ Maintainer: abuanas
 Depends : firmware (>= 4.0), findutils, apt | apt7
 Conflicts:  org.altervista.exilecom.icleaner
 Replaces : org.altervista.exilecom.icleaner
-Filename: deb/
-Size: 
-MD5sum:	
-SHA1:	
-SHA256: 
+Filename: deb/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4786998
+MD5sum:	e1529be5a0eceb137f0a07e8c31f5349
+SHA1: d23ee71e004892d2035550af798212dde37acfec
+SHA256: 822bce40f9954226457fd2a5586e974fa8e302e767134e6b14fe7a70ecaa60d5
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  iCleaner Pro
