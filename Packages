@@ -59,3 +59,19 @@ SHA256:  60c5d37603aa1dbc19d938167d20bd863eb9230dc9f7e3ed93491ae4bd6a2d36
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  YouTube Reborn
+
+Package:  com.rpgfarm.a-font
+Version: 1.9.3
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends : mobilesubstrate, applist (>= 1.5.15~beta1)
+Conflicts:
+Filename: deb/
+Size:  520148
+MD5sum:	 7bc06a7cc5f934f97aede3e020ddd2cb
+SHA1:	 f02852d3afad4fa4cf0b98b01a79e1828c02bc61
+SHA256:  32be71fa13c6188b0314d491a03b4ccc521fea90e890457c94e982e5cbd0d023
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  A-Font
+
