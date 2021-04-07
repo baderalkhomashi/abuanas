@@ -43,3 +43,17 @@ Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name: A-Bypass
 
+Package: org.thebigboss.whatsapprevael
+Version: 9.7-2
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
+Conflicts: iOS 9+
+Filename: deb/com.rpgfarm.a-bypass.deb
+Size: 745432
+MD5sum: 3b6f719cf89eb898ae6c9a46494bb12b
+SHA1:  e9c5f877c422a92e7b2620f3b226e75472d71f86
+SHA256:  f571c0a594c8d650b9ee38533276aadb6b9736d9a66be1f15b20ac7dc7e9d342
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name: Whatsapp Revael
