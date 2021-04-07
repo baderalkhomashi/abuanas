@@ -51,7 +51,7 @@ Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends:  mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Conflicts:  com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
-Filename: deb/
+Filename: deb/69e4b80a85da6c9e52d2c58428fd790b.deb
 Size:  209896
 MD5sum:  4698532c90ffff740855605e2a671da1
 SHA1:  69c488d50b280450a6492f4e89d1ab92328cc01c
