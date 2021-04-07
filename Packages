@@ -66,7 +66,7 @@ Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends : mobilesubstrate, applist (>= 1.5.15~beta1)
 Conflicts:
-Filename: deb/
+Filename: deb/com.rpgfarm.a-font.deb
 Size:  520148
 MD5sum:	 7bc06a7cc5f934f97aede3e020ddd2cb
 SHA1:	 f02852d3afad4fa4cf0b98b01a79e1828c02bc61
