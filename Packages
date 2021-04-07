@@ -59,3 +59,20 @@ SHA256:  60c5d37603aa1dbc19d938167d20bd863eb9230dc9f7e3ed93491ae4bd6a2d36
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  YouTube Reborn
+
+
+
+Package:  com.dpkgdan.powertap
+Version: 1.1.3-3
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends: firmware (>= 7.1), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts:  com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot
+Filename: deb/
+Size:  65202
+MD5sum:   13f296c2e58aacbcbc52efa6d0f52c03
+SHA1:   fa36d9144a26712ab00d4233b218f6524ab9ebca
+SHA256:   c45431d5aea65b95cdcb7b46f53f101a2493faced92e4534923b716b6c6190f0
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:   Power Tap
