@@ -75,3 +75,18 @@ Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  A-Font
 
+Package:  com.exile90.icleanerpro
+Version:  7.9.1
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends : firmware (>= 4.0), findutils, apt | apt7
+Conflicts:  org.altervista.exilecom.icleaner
+Replaces : org.altervista.exilecom.icleaner
+Filename: deb/
+Size: 
+MD5sum:	
+SHA1:	
+SHA256: 
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  iCleaner Pro
