@@ -97,7 +97,7 @@ Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: iOS 13+
-Filename: deb/
+Filename: deb/homescreenquickactions_1.6.3.deb
 Size: 101,494
 MD5sum:	 875b3559276886f6d7e7ffbaec591296
 SHA1:	df96eb6253feb2f37c8e4c7a1119f47c74544c5f
