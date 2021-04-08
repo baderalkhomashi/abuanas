@@ -4,5 +4,5 @@ Label:  ابو انس
 Suite:   stable
 Version:  1.0
 Architectures: iphoneos-arm
-iphoneos-arm Components: main
+Components: main
 Descriptiod: سورس ابو انس لادوات الجلبريك
