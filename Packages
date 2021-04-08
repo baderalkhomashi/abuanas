@@ -90,3 +90,18 @@ SHA256: 822bce40f9954226457fd2a5586e974fa8e302e767134e6b14fe7a70ecaa60d5
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  iCleaner Pro
+
+Package:  com.tomaszpoliszuk.dockcontroller
+Version:  1.6.1
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends:  firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: iOS 12+
+Filename: deb/dockcontroller_1.6.1.deb
+Size: 60492
+MD5sum:	 81842c6b5f60a51f55c05bdcbe49f254
+SHA1:	7edba014b5f74076d5a58d1293320850ecde41c9
+SHA256:  080d6b02b4459bb67acff0726e547d7eefe61a431e6c55e8420388927cae23c1
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name: Dock Controller
