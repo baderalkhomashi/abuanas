@@ -90,3 +90,18 @@ SHA256: 822bce40f9954226457fd2a5586e974fa8e302e767134e6b14fe7a70ecaa60d5
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  iCleaner Pro
+
+Package:  com.tomaszpoliszuk.homescreenquickactions
+Version:  1.6.3
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: iOS 13+
+Filename: deb/
+Size: 101,494
+MD5sum:	 875b3559276886f6d7e7ffbaec591296
+SHA1:	df96eb6253feb2f37c8e4c7a1119f47c74544c5f
+SHA256:  6c4cd0553278e6d15dd4c06c1d8a6b898e19270a32c9c45edcd832a64bde2180
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  Home Screen Quick Actions
