@@ -105,3 +105,20 @@ SHA256:  6c4cd0553278e6d15dd4c06c1d8a6b898e19270a32c9c45edcd832a64bde2180
 Section: Tweaks
 Depiction: https://baderalkhomashi.github.io/abuanas/
 Name:  Home Screen Quick Actions
+
+Package:  com.cokepokes.psappotheraudio
+Version:  0.1-2
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends:  firmware (>= 8.0), mobilesubstrate
+Priority : optional
+Compatibility : iOS 8+
+Conflicts: 
+Filename: deb/
+Size:  28152
+MD5sum:	 f5f4ecb63c0d9ab2ab91ba10ee05c477
+SHA1:	 4ad66ad0bc04e33178753181d05758046ea0a712
+SHA256:  09b85a90a4b1b6a1bab21362d6cfd20cf15da52bff657db26698c1b77268f5c7
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  PSApp Other Audio
