@@ -114,7 +114,7 @@ Depends:  firmware (>= 8.0), mobilesubstrate
 Priority : optional
 Compatibility : iOS 8+
 Conflicts: 
-Filename: deb/
+Filename: deb/com.cokepokes.psappotheraudio_0.1-2_iphoneos-arm.deb
 Size:  28152
 MD5sum:	 f5f4ecb63c0d9ab2ab91ba10ee05c477
 SHA1:	 4ad66ad0bc04e33178753181d05758046ea0a712
